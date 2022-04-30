@@ -16,7 +16,7 @@ The dataset contains information about movie name, genre, budget, box office col
 
 ## Question answered during analysis.
 
-  <h4>Q1.</h4> How many records are present in the dataset?<br>
+  Q1. How many records are present in the dataset?<br>
   Q2. How many movies got released in each genre?<br>
   Q3. Which genre had highest number of releases?<br>
   Q4. How many movies in each genre got released in different release times like long weekend, festive season, etc.<br>
