@@ -1,3 +1,5 @@
+The readme file contains information about the dataset. To see metadata refer directly the ipynb file
+
 Summary
 =======
 
